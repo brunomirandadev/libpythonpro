@@ -2,6 +2,11 @@
 
 # lib inclusão issue 1
 
+Topicos 
+
+1. git
+2. pip
+
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 Nesse curso é ensinado como contribuir com projetos de código aberto
